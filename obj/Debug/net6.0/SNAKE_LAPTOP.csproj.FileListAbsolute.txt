@@ -1,0 +1,15 @@
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\bin\Debug\net6.0\SNAKE_LAPTOP.exe
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\bin\Debug\net6.0\SNAKE_LAPTOP.deps.json
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\bin\Debug\net6.0\SNAKE_LAPTOP.runtimeconfig.json
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\bin\Debug\net6.0\SNAKE_LAPTOP.dll
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\bin\Debug\net6.0\SNAKE_LAPTOP.pdb
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\obj\Debug\net6.0\SNAKE_LAPTOP.csproj.AssemblyReference.cache
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\obj\Debug\net6.0\SNAKE_LAPTOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\obj\Debug\net6.0\SNAKE_LAPTOP.AssemblyInfoInputs.cache
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\obj\Debug\net6.0\SNAKE_LAPTOP.AssemblyInfo.cs
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\obj\Debug\net6.0\SNAKE_LAPTOP.csproj.CoreCompileInputs.cache
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\obj\Debug\net6.0\SNAKE_LAPTOP.dll
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\obj\Debug\net6.0\refint\SNAKE_LAPTOP.dll
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\obj\Debug\net6.0\SNAKE_LAPTOP.pdb
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\obj\Debug\net6.0\SNAKE_LAPTOP.genruntimeconfig.cache
+C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\obj\Debug\net6.0\ref\SNAKE_LAPTOP.dll
