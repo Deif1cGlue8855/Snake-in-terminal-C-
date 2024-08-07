@@ -279,7 +279,7 @@ public static class Program
             Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.SetCursorPosition(playerX, playerY);
-            Console.Write("□");
+            Console.Write("⬤");
 
             // Character controller
             if (Console.KeyAvailable == true)
@@ -409,7 +409,7 @@ public static class Program
                 Console.BackgroundColor = ConsoleColor.Green;
                 Console.ForegroundColor = ConsoleColor.DarkBlue;
                 Console.SetCursorPosition(playerX, playerY);
-                Console.Write("□");
+                Console.Write("⬤");
             }
             Console.ResetColor();
         }
@@ -823,7 +823,7 @@ public static class Program
             Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.SetCursorPosition(playerX, playerY);
-            Console.Write("□");
+            Console.Write("⬤");
 
             // Character controller
             if (Console.KeyAvailable == true)
@@ -953,7 +953,7 @@ public static class Program
                 Console.BackgroundColor = ConsoleColor.Green;
                 Console.ForegroundColor = ConsoleColor.DarkBlue;
                 Console.SetCursorPosition(playerX, playerY);
-                Console.Write("□");
+                Console.Write("⬤");
             }
             Console.ResetColor();
         }
