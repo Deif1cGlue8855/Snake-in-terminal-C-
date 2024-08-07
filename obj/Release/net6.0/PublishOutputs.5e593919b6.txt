@@ -1,0 +1,5 @@
+C:\Users\arlot\OneDrive\Desktop\Visual studios exported\SNAKE.exe
+C:\Users\arlot\OneDrive\Desktop\Visual studios exported\SNAKE.dll
+C:\Users\arlot\OneDrive\Desktop\Visual studios exported\SNAKE.deps.json
+C:\Users\arlot\OneDrive\Desktop\Visual studios exported\SNAKE.runtimeconfig.json
+C:\Users\arlot\OneDrive\Desktop\Visual studios exported\SNAKE.pdb

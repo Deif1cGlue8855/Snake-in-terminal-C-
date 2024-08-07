@@ -1,0 +1,5 @@
+C:\Users\arlot\Downloads\SNAKE.exe
+C:\Users\arlot\Downloads\SNAKE.dll
+C:\Users\arlot\Downloads\SNAKE.deps.json
+C:\Users\arlot\Downloads\SNAKE.runtimeconfig.json
+C:\Users\arlot\Downloads\SNAKE.pdb
