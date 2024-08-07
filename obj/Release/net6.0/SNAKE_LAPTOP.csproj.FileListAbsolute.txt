@@ -1,4 +1,0 @@
-C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\obj\Release\net6.0\SNAKE_LAPTOP.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\obj\Release\net6.0\SNAKE_LAPTOP.AssemblyInfoInputs.cache
-C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\obj\Release\net6.0\SNAKE_LAPTOP.AssemblyInfo.cs
-C:\Users\arlot\source\repos\SNAKE_LAPTOP\SNAKE_LAPTOP\obj\Release\net6.0\SNAKE_LAPTOP.csproj.CoreCompileInputs.cache
