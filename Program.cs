@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Linq.Expressions;
 using System.Runtime.InteropServices;
@@ -279,7 +279,7 @@ public static class Program
             Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.SetCursorPosition(playerX, playerY);
-            Console.Write("⬤");
+            Console.Write("□");
 
             // Character controller
             if (Console.KeyAvailable == true)
@@ -321,7 +321,6 @@ public static class Program
                     }
                     Environment.Exit(0);
                 }
-
 
             }
             // Check if Food eat
@@ -409,7 +408,7 @@ public static class Program
                 Console.BackgroundColor = ConsoleColor.Green;
                 Console.ForegroundColor = ConsoleColor.DarkBlue;
                 Console.SetCursorPosition(playerX, playerY);
-                Console.Write("⬤");
+                Console.Write("□");
             }
             Console.ResetColor();
         }
@@ -462,6 +461,10 @@ public static class Program
                 MainMenuB();
                 break;
             }
+            else if (keyInfo.Key == ConsoleKey.Escape)
+            {
+                Environment.Exit(0);
+            }
         }
     }
     public static void DifficultyB()
@@ -497,6 +500,10 @@ public static class Program
         else if (keyInfo.Key == ConsoleKey.D3)
         {
             SnakeGameB(1);
+        }
+        else
+        {
+            Environment.Exit(0);
         }
         Console.Clear();
     }
@@ -543,6 +550,10 @@ public static class Program
             {
                 Console.Clear();
                 InfoB();
+            }
+            else
+            {
+                Environment.Exit(0);
             }
             Console.Clear();
         }
@@ -823,7 +834,7 @@ public static class Program
             Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.SetCursorPosition(playerX, playerY);
-            Console.Write("⬤");
+            Console.Write("□");
 
             // Character controller
             if (Console.KeyAvailable == true)
@@ -953,7 +964,7 @@ public static class Program
                 Console.BackgroundColor = ConsoleColor.Green;
                 Console.ForegroundColor = ConsoleColor.DarkBlue;
                 Console.SetCursorPosition(playerX, playerY);
-                Console.Write("⬤");
+                Console.Write("□");
             }
             Console.ResetColor();
         }
@@ -1011,6 +1022,10 @@ public static class Program
                 MainMenuS();
                 break;
             }
+            else if(keyInfo.Key == ConsoleKey.Escape)
+            {
+                Environment.Exit(0);
+            }
         }
     }
     public static void DifficultyS()
@@ -1046,6 +1061,10 @@ public static class Program
         else if (keyInfo.Key == ConsoleKey.D3)
         {
             SnakeGameS(1);
+        }
+        else
+        {
+            Environment.Exit(0);
         }
         Console.Clear();
     }
@@ -1092,6 +1111,10 @@ public static class Program
             {
                 Console.Clear();
                 InfoS();
+            }
+            else
+            {
+                Environment.Exit(0);
             }
             Console.Clear();
         }
