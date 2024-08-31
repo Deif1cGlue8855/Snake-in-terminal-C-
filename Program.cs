@@ -551,7 +551,7 @@ public static class Program
                 Console.Clear();
                 InfoB();
             }
-            else
+            else if (keyInfo.Key == ConsoleKey.Escape)
             {
                 Environment.Exit(0);
             }
@@ -1112,7 +1112,7 @@ public static class Program
                 Console.Clear();
                 InfoS();
             }
-            else
+            else if (keyInfo.Key == ConsoleKey.Escape)
             {
                 Environment.Exit(0);
             }
